@@ -1,0 +1,67 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "b967a4e5-17f1-4426-b1fc-fc6d2d779ae9": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": ""
+          }
+        },
+        "72684ab6-4797-4e8a-a1dc-3cdf4b9bf42d": {
+          "type": "link_list",
+          "settings": {
+            "heading": "SHOP",
+            "menu": "footer-shop"
+          }
+        },
+        "7766e87a-e974-477b-ba60-1046c821cada": {
+          "type": "link_list",
+          "settings": {
+            "heading": "SUPPORT",
+            "menu": "footer-support"
+          }
+        },
+        "8ed58013-d560-4703-80d5-03ce67ce7ded": {
+          "type": "link_list",
+          "settings": {
+            "heading": "COMPANY",
+            "menu": "footer-company"
+          }
+        }
+      },
+      "block_order": [
+        "b967a4e5-17f1-4426-b1fc-fc6d2d779ae9",
+        "72684ab6-4797-4e8a-a1dc-3cdf4b9bf42d",
+        "7766e87a-e974-477b-ba60-1046c821cada",
+        "8ed58013-d560-4703-80d5-03ce67ce7ded"
+      ],
+      "settings": {
+        "color_scheme": "scheme-f8056edd-6fc7-4b17-bfa3-3fb765df8d56",
+        "newsletter_enable": true,
+        "newsletter_heading": "STAY CONNECTED WITH RUNNERS REGA",
+        "newsletter_details": "Be the first to know about product releases, exclusive sales, and more. + Receive 20% off your first order.",
+        "newsletter_button_text": "SIGN UP",
+        "newsletter_button_background": "#ffffff",
+        "newsletter_button_color": "#000000",
+        "newsletter_button_size": 120,
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

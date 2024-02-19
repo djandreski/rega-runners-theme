@@ -1,0 +1,60 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "FREE SHIPPING ORDER OVER $75",
+            "link": ""
+          }
+        },
+        "fcb042b0-de55-466c-85a4-f775dcd132b3": {
+          "type": "announcement",
+          "settings": {
+            "text": "FALL SALE 20%, USE CODE FALL2023",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "fcb042b0-de55-466c-85a4-f775dcd132b3"
+      ],
+      "settings": {
+        "color_scheme": "scheme-f8056edd-6fc7-4b17-bfa3-3fb765df8d56",
+        "show_line_separator": false,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left-center",
+        "menu": "main-menu",
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": false,
+        "color_scheme": "background-1",
+        "menu_color_scheme": "background-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

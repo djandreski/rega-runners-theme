@@ -1,0 +1,73 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8ac8830b-d6cf-4750-97bf-6dbc45facf93": {
+      "type": "multirow",
+      "blocks": {
+        "template--21405829562677__8ac8830b-d6cf-4750-97bf-6dbc45facf93-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bike-seat.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "<h2><strong>We Create Premium Gear for Runners & Athletes.<\/strong><\/h2><p>At Runners Rega, we believe that you should never have to choose between looking good, feeling good and is sustainable. That’s why we created a line of athletic gear that can keep up with your adventurous life and is eco friendly. Whether you’re hitting the track, the trails, or the beach, our gear will help you look and feel your best. We are committed to creating athletic gear that meets the needs of athletes everywhere. So come join us on our journey – we can’t wait to see what adventures lie ahead!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21405829562677__8ac8830b-d6cf-4750-97bf-6dbc45facf93-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/soccer-cleats-and-ball.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "<h2><strong>Built to Last, A <\/strong><em><strong>Lifetime<\/strong><\/em><\/h2><p>We believe that gear should be built to last. That's why all of our running gear is made with the highest quality materials and comes with a<strong>lifetime warranty<\/strong>. We want you to be able to run your heart out, without having to worry about your gear falling apart. So come join the Runners Athletics community and experience the quality and durability for yourself!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--21405829562677__8ac8830b-d6cf-4750-97bf-6dbc45facf93-row-3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hair-athleticwear.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "<h2><strong>What We Believe<\/strong><\/h2><p>We believe in making the highest quality running gear and doing the right thing. That's why we only use the best materials and the most innovative technologies in our products. And, it's why we're constantly striving to improve our manufacturing processes. We are committed to <strong>environmental sustainability<\/strong> and are always looking for ways to <strong>reduce our impact on the planet<\/strong>. At Runners, we believe that doing the right thing is good for business. And, we think that our customers appreciate our commitment to quality, innovation, and social responsibility.<\/p><p>Thank you for supporting Runners! ❤️<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21405829562677__8ac8830b-d6cf-4750-97bf-6dbc45facf93-row-1",
+        "template--21405829562677__8ac8830b-d6cf-4750-97bf-6dbc45facf93-row-2",
+        "template--21405829562677__8ac8830b-d6cf-4750-97bf-6dbc45facf93-row-3"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "center",
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8ac8830b-d6cf-4750-97bf-6dbc45facf93"
+  ]
+}
